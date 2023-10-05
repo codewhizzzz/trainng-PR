@@ -1,3 +1,3 @@
-# trainng-PR
+# training-PR
 
 PR연습
